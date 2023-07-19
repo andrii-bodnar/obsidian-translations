@@ -844,6 +844,7 @@
 			"action-open": "Open file explorer",
 			"action-show": "Show file explorer",
 			"action-create-note": "Create new note",
+			"action-create-note-in-current-tab": "Create new note in current tab",
 			"action-create-note-to-the-right": "Create note to the right",
 			"action-collapse-all": "Collapse all",
 			"action-expand-all": "Expand all",

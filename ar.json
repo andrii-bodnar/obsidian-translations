@@ -844,6 +844,7 @@
 			"action-open": "فتح مستكشف الملفات",
 			"action-show": "إظهار مستكشف الملفات",
 			"action-create-note": "إنشاء ملاحظة جديدة",
+			"action-create-note-in-current-tab": "Create new note in current tab",
 			"action-create-note-to-the-right": "إنشاء ملاحظة جديدة لليمين",
 			"action-collapse-all": "طي الكل",
 			"action-expand-all": "فتح الكل",
